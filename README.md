@@ -1,1 +1,1 @@
-# COVID-19
+# COE_S35_Boilerplate
